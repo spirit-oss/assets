@@ -1,4 +1,4 @@
-# SPIRIT Smartphone – Assets Repository
+# SPIRIT Smartphone – Main Repository
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/60e87523-02cf-482b-8433-5f611e48ca2d" width="40%">
@@ -12,11 +12,17 @@
 
 ---
 
-{ABOVE HERE IS THE HEADER PLEASE KEEP, but delete this line}
+{MAIN SECTION UNIQUE TO EACH REPO}
 
-{MAIN SECTION UNIQUE TO EACH REPO, replace this line}
+---
 
-{BELOW HERE IS THE FOOT PLEASE KEEP, but delete this line}
+## Contact
+
+- **YouTube:** [@Spirit-OSS](https://www.youtube.com/@Spirit-OSS)  
+- **GitHub:** [spirit-oss/spirit](https://github.com/spirit-oss/spirit)  
+- **Website:** [spirit-oss.github.io](https://spirit-oss.github.io)  
+- **Email:** [contact.spirit.oss@gmail.com](mailto:contact.spirit.oss@gmail.com)  
+- **Discord:** [Join our community](https://discord.gg/aJ36KzGZ)
 
 ---
 
