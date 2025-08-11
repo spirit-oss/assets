@@ -1,4 +1,8 @@
-# Assets Repository
+# SPIRIT Smartphone – Assets Repository
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/60e87523-02cf-482b-8433-5f611e48ca2d" width="40%">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Purpose-Centralized%20Assets-blue">
